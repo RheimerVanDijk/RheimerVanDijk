@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hellooo
 
-<!--
-**RheimerVanDijk/RheimerVanDijk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/RheimerVanDijk" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RheimerVanDijk" />
+
+<a href="https://github.com/RheimerVanDijk">
+  <img src="https://komarev.com/ghpvc/?username=RheimerVanDijk&style=flat-square" />
+</a>
+<a href="https://github.com/RheimerVanDijk">
+  <img src="https://img.shields.io/github/followers/RheimerVanDijk?style=social" />
+</a>
