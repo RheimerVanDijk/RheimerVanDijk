@@ -27,8 +27,6 @@
 
 <br />
 
----
-
 ### Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="./icons/vs-code.png" />
@@ -37,6 +35,8 @@
 <img align="left" alt="Github" width="26px" src="./icons/contentful.png" />
 
 <br />
+
+---
 
 <img align="left" alt="Rheimer's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=RheimerVanDijk&show_icons=true&hide_border=true" />
 
