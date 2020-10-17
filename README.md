@@ -8,7 +8,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="./vuejs-brands.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="./icons/vuejs-brands.svg" />
 
 <!-- <p align="center">
   <a href="https://github.com/RheimerVanDijk" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
