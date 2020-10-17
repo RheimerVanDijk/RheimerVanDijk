@@ -19,7 +19,7 @@
 ### Frameworks:
 
 <img align="left" alt="Vue.js" width="26px" src="./icons/vuejs-brands.svg" />
-<img align="left" alt="React" width="26px" src="./icons/react.svg" />
+<img align="left" alt="React" width="26px" src="./icons/react.png" />
 
 <br />
 
