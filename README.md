@@ -10,7 +10,7 @@
 
 <img align="left" alt="HTML5" width="26px" src="./icons/html5.png" />
 <img align="left" alt="CSS3" width="26px" src="./icons/css3.svg" />
-<img align="left" alt="JS ES6" width="26px" src="./icons/js.svg" />
+<img align="left" alt="JS ES6" width="26px" src="./icons/js.png" />
 <img align="left" alt="PHP7" width="26px" src="./icons/php.svg" />
 <img align="left" alt="PHP7" width="26px" src="./icons/cSharp.svg" />
 
