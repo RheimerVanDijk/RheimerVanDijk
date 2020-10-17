@@ -41,7 +41,7 @@
 
 <img align="left" alt="Rheimer's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=RheimerVanDijk&show_icons=true&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RheimerVanDijk" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RheimerVanDijk&show_icons=true&hide_border=true" />
 
 <!-- <p align="center">
   <a href="https://github.com/RheimerVanDijk" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
