@@ -27,6 +27,8 @@
 
 <br />
 
+---
+
 ### Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="./icons/vs-code.png" />
