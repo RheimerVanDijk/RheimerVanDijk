@@ -3,10 +3,11 @@
 ## Connect with me:
 
 [<img align="left" alt="http://rheimer.nl/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Rheimer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
-### Languages:
+## Languages:
 
 <img align="left" alt="HTML5" width="26px" src="./icons/html5.png" />
 <img align="left" alt="CSS3" width="26px" src="./icons/css3.svg" />
@@ -17,7 +18,7 @@
 
 <br />
 
-### Frameworks:
+## Frameworks:
 
 <img align="left" alt="Vue.js" width="26px" src="./icons/vuejs-brands.svg" />
 <img align="left" alt="React" width="26px" src="./icons/react.png" />
@@ -27,7 +28,7 @@
 
 <br />
 
-### Tools:
+## Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="./icons/vs-code.png" />
 <img align="left" alt="Github" width="26px" src="./icons/github.webp" />
@@ -54,3 +55,4 @@
 </a> -->
 
 [website]: http://rheimer.nl/
+[linkedin]: https://www.linkedin.com/in/rheimer-van-dijk-84161a183/
