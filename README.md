@@ -12,13 +12,14 @@
 <img align="left" alt="CSS3" width="26px" src="./icons/css3.svg" />
 <img align="left" alt="JS ES6" width="26px" src="./icons/js.png" />
 <img align="left" alt="PHP7" width="26px" src="./icons/php.svg" />
-<img align="left" alt="PHP7" width="26px" src="./icons/cSharp.svg" />
+<img align="left" alt="c#" width="26px" src="./icons/cSharp.svg" />
 
 <br />
 
 ### Frameworks:
 
 <img align="left" alt="Vue.js" width="26px" src="./icons/vuejs-brands.svg" />
+<img align="left" alt="React" width="26px" src="./icons/react.svg" />
 
 <br />
 
