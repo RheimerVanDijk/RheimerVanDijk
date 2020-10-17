@@ -1,4 +1,4 @@
-### Hellooo, I'm Rheimer
+### Hellooooow, I'm Rheimer
 
 ## Connect with me:
 
@@ -13,9 +13,13 @@
 <img align="left" alt="JS ES6" width="26px" src="./icons/js-brands.svg" />
 <img align="left" alt="PHP7" width="26px" src="./icons/php-brands.svg" />
 
+<br />
+
 ### Frameworks:
 
 <img align="left" alt="Vue.js" width="26px" src="./icons/vuejs-brands.svg" />
+
+<br />
 
 ### Tools:
 
