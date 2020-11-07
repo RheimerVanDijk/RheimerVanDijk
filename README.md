@@ -33,8 +33,9 @@
 
 <img align="left" alt="Visual Studio Code" width="26px" src="./icons/vs-code.png" />
 <img align="left" alt="Github" width="26px" src="./icons/github.webp" />
-<img align="left" alt="Github" width="26px" src="./icons/git.png" />
-<img align="left" alt="Github" width="26px" src="./icons/contentful.png" />
+<img align="left" alt="Git" width="26px" src="./icons/git.png" />
+<img align="left" alt="Contentful" width="26px" src="./icons/contentful.png" />
+<img align="left" alt="Terminal" width="26px" src="https://cdn.worldvectorlogo.com/logos/terminal-1.svg" />
 
 <br />
 
